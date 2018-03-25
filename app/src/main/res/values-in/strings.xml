@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">F-MATH</string>
+    <string name="choose_sub_less">Pilih Materi</string>
+    <string name="off">Matikan</string>
+    <string name="switch_aplication">Saklar Aplikasi</string>
+    <string name="on">Hidupkan</string>
+    <string name="sub_less">Materi</string>
+    <string name="sub1">Bentuk Pangkat Dan Akar</string>
+    <string name="sub2">Logaritma</string>
+    <string name="sub3">Persamaan Kuadrat</string>
+    <string name="sub4">Persamaan Linier dan Kuadrat</string>
+    <string name="sub5">Fungsi Kuadrat</string>
+    <string name="sub6">Pertidaksamaan</string>
+    <string name="sub7">Trigonometri</string>
+    <string name="sub8">Logika Matematika</string>
+    <string name="sub9">Dimensi Tiga</string>
+    <string name="sub10">Statistika</string>
+    <string name="sub11">Peluang</string>
+    <string name="home">Beranda</string>
+</resources>

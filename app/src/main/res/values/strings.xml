@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">F-MATH</string>
+    <string name="choose_sub_less">Choose Sub Lesson</string>
+    <string name="off">Turn Off</string>
+    <string name="home">Home</string>
+    <string name="switch_aplication">Application Switch</string>
+    <string name="on">Turn On</string>
+    <string name="sub_less">Sub Lesson</string>
+    <string name="sub1">Squared and Squared Root</string>>
+    <string name="sub2">logarithm</string>>
+    <string name="sub3">Equation of Squared</string>>
+    <string name="sub4">Equation of Linear and Squared</string>>
+    <string name="sub5">Function of Squared</string>>
+    <string name="sub6">Inequality</string>>
+    <string name="sub7">Trigonometry</string>>
+    <string name="sub8">Math Logic</string>>
+    <string name="sub9">Dimensional Three</string>>
+    <string name="sub10">Statistics</string>>
+    <string name="sub11">Opportunities</string>>
+</resources>
